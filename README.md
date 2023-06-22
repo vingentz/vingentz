@@ -11,11 +11,12 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning C, Python and Java
 - 📫 Reach out, drop a DM on twitter @KevnKaris
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vingentz&theme=radical&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=45%2C110B4C%2C660303)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vingentz&show_icons=true&theme=radical)
 [![vingentz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vingentz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vingentz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+--->
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vingentz&repo=Termux-Repo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Kevin 'Gentz'Kariuki</h1>
