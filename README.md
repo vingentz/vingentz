@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning C, Python and Java
 - 📫 Reach out, drop a DM on twitter @KevnKaris
-- [![Twitter Badge](https://img.shields.io/badge/-Gentz-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KevnKaris/) [![Linkedin Badge](https://img.shields.io/badge/-Gentz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.[linkedin.com/in/kevgkariuki]/) [![Gmail Badge](https://img.shields.io/badge/-Gentz-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:vingentz@gmail.com) 
+- [![Gmail Badge](https://img.shields.io/badge/-Gentz-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:vingentz@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Gentz-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KevnKaris/) [![Linkedin Badge](https://img.shields.io/badge/-Gentz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevgkariuki/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vingentz&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&background=110B4C)](https://git.io/streak-stats)
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vingentz&show_icons=true&theme=radical)--->
